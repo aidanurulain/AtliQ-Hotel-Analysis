@@ -25,6 +25,7 @@ KPI Calculation include:
 - ADR and occupancy rate patterns
 - Revenue by category
 - Dynamic and interactive key insight by city, room class and week as parameter
+- Click here to view dashboard (https://app.powerbi.com/view?r=eyJrIjoiNzAwODA1NzgtMWYwMi00YmJmLWI4ZWYtMTlmOWFhYTE2ZmJkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 # Conclusion
 The dashboard provides a clear view of operational health across AtliQ Hotels. It enables managers to identify underperforming areas, optimize pricing strategies, and enhance guest experience through data insights.
